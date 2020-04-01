@@ -1,0 +1,50 @@
+
+.btn{
+	margin-top: 50rpx;
+}
+.backdrop{
+	background-color: #f4f4f4;
+	height: 1150rpx;
+	padding-top: 50rpx;
+}
+.uni-input{
+	margin-right: 230rpx;
+	float:right;
+	display: inline-block;
+	height: 60rpx;
+}
+.verification{
+	width: 180rpx;
+	float: right;
+	font-size: 26rpx;
+	color: #999999;
+	text-align:center;
+	border-left:2px solid #f4f4f4;
+}
+.note-verification{
+	margin-left: 55rpx;
+	display: inline-block;
+	height: 60rpx;
+}
+.nameText{
+	margin-left: 20rpx;
+	float: left;
+	display: inline-block;
+}
+.bankName{
+	line-height: 60rpx;
+	height: 60rpx;
+	background-color: #ffffff;
+	border-bottom:2px solid #f4f4f4;
+}
+.title{
+	text-align:center;
+	color: #007AFF;
+	font-size: 56rpx;
+}
+.basics{
+	margin-left: 10rpx;
+	font-size: 24rpx;
+	color: #999999;
+}
+

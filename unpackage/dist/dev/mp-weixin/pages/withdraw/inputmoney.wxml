@@ -1,0 +1,1 @@
+<view class="content"><view class="inputs"><view class="uni-form-item uni-column"><input class="uni-input" focus placeholder="输入提现金额"/></view><button class="btn" type="primary" data-event-opts="{{[['tap',[['withdrawClick']]]]}}" bindtap="__e">确认提现</button></view></view>

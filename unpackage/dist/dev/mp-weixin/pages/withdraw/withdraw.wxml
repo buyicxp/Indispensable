@@ -1,0 +1,1 @@
+<view class="backdrop"><view class="moneyimg"><image class="img" src="../../static/moneyimg.png"></image></view><view class="mymoney">我的佣金</view><view class="money">1200.00</view><button class="btn" type="primary" data-event-opts="{{[['tap',[['withdrawClick']]]]}}" bindtap="__e">提现</button></view>

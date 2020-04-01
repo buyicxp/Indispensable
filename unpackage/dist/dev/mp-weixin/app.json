@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/my/my",
+    "pages/detail/detail",
+    "pages/bank/bank",
+    "pages/index/index",
+    "pages/applypos/applypos",
+    "pages/applypos/accapply",
+    "pages/applypos/applydiagnose",
+    "pages/applypos/applyhiring",
+    "pages/applypos/applyintegral",
+    "pages/applypos/applylaw",
+    "pages/applypos/applyloans",
+    "pages/withdraw/withdraw",
+    "pages/withdraw/inputmoney",
+    "pages/frommenu/frommenu",
+    "pages/earnings/earnings",
+    "pages/dimension/dimension",
+    "pages/correct/correct"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "驭卡大帝",
+    "navigationBarBackgroundColor": "#55aaff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "产品",
+        "iconPath": "static/navigation/menu.png",
+        "selectedIconPath": "static/navigation/menuclick.png"
+      },
+      {
+        "pagePath": "pages/earnings/earnings",
+        "text": "收益",
+        "iconPath": "static/navigation/data.png",
+        "selectedIconPath": "static/navigation/dataclick.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/navigation/person.png",
+        "selectedIconPath": "static/navigation/personclick.png"
+      }
+    ],
+    "color": "#000000",
+    "selectedColor": "#0094ff"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap74.json"
+}

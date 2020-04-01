@@ -1,0 +1,24 @@
+
+.content{
+	height:1110rpx;
+	background-color: #f4f4f4;
+}
+.inputs{
+	
+	margin:10rpx auto;
+	background-color: #FFFFFF;
+	border-radius: 10rpx;
+	height: 330rpx;
+	width: 720rpx;
+	box-shadow:0px 0px 10px #737373;
+}
+.uni-input{
+	padding:70rpx 0rpx 60rpx 50rpx ;
+	font-size: 50rpx;
+	height: 50rpx;
+}
+.btn{
+	width: 280rpx;
+	height: 93rpx;
+}
+

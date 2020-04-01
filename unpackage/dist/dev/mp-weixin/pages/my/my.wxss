@@ -1,0 +1,49 @@
+
+.img{
+	height: 50rpx;
+	width: 50rpx;
+	vertical-align:middle;
+	margin-right: 10rpx;
+}
+.content{
+	height:1110rpx;
+	background-color: #f4f4f4;
+}
+.dimension-card{
+	background-color: #FFFFFF;
+	height: 560rpx;
+	width: 750rpx;
+	margin:0rpx auto;
+}
+.portrait{
+	border-bottom:10px solid #f4f4f4;
+	height: 160rpx;
+}
+.portraitimg{
+	margin: 30rpx;
+	height: 100rpx;
+	width: 100rpx;
+	float: left;
+	border-radius: 100rpx;
+}
+.designation{
+	padding-top: 30rpx;
+	padding-bottom: 10rpx;
+	font-weight: bold;
+	font-size: 36rpx;
+}
+.yard{
+	height: 700rpx;
+	width: 700rpx;
+}
+.choice{
+	display:inline-block;
+	height:100%;
+	vertical-align:middle;
+	width: 100%;
+	border-bottom:3px solid #f4f4f4;
+	font-size: 26rpx;
+	padding-left: 30rpx;
+	line-height: 70rpx;
+}
+

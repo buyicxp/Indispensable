@@ -1,0 +1,1 @@
+<view class="backdrop"><view class="moneyimg"><image class="img" src="../../static/correct.png"></image></view><view class="money">申请成功</view><view class="mymoney">客服将稍后联系</view><button class="btn" type="primary">确定</button></view>

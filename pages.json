@@ -1,0 +1,155 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},	
+		{
+			"path": "pages/detail/detail",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/bank/bank",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/applypos/applypos",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/applypos/accapply",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/applypos/applydiagnose",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/applypos/applyhiring",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/applypos/applyintegral",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/applypos/applylaw",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/applypos/applyloans",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/withdraw/inputbank",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/withdraw/withdraw",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/withdraw/inputmoney",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/frommenu/frommenu",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/earnings/earnings",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/dimension/dimension",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/correct/correct",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		},
+		{
+			"path": "pages/correct/withdrawcorrect",
+			"style": {
+				"navigationBarTitleText": "驭卡大帝"
+			}
+		}
+	],
+	"tabBar": {
+			"list": [
+				{
+					"pagePath": "pages/index/index",
+					"text": "产品",
+					"iconPath": "static/navigation/menu.png",
+					"selectedIconPath": "static/navigation/menuclick.png"
+				},
+				{
+					"pagePath": "pages/earnings/earnings",
+					"text": "收益",
+					"iconPath": "static/navigation/data.png",
+					"selectedIconPath": "static/navigation/dataclick.png"
+				},
+				{
+					"pagePath": "pages/my/my",
+					"text": "我的",
+					"iconPath": "static/navigation/person.png",
+					"selectedIconPath": "static/navigation/personclick.png"
+				}
+			],
+			"color": "#000000",
+			"selectedColor": "#0094ff"
+		},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "驭卡大帝",
+		"navigationBarBackgroundColor": "#55aaff",
+		"backgroundColor": "#F8F8F8"
+	}
+}
